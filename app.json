@@ -1,6 +1,6 @@
 
 {
-  "name": "Elisa Robot",
+  "name": "MitsukiProBot",
   "description": "Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/QueenArzoo/ElisaRobot.git",
+  "repository": "hhttps://github.com/Bos-X/ElisaRobot.git",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -17,11 +17,11 @@
     },
     "TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "1336920652:AAFWJ4QSdl5kTIzml6MkG3JeRI5FAGuskx0"
+      "value": "1706501676:AAGCfGBPTa4rrrT0tdSkVUMMFoKZf-UNy9E"
     },
     "LASTFM_API_KEY": {
       "description": "LastFM Api Key",
-      "value": "ea4ceca2a325eb95055b539e8faa359d"
+      "value": ""
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
@@ -29,7 +29,7 @@
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "ArzooOfficial"
+      "value": "Rahasia Pabrik"
     },
   
     "URL": {
@@ -38,15 +38,15 @@
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-      "value": "-1007777777777"
+      "value": "-1001384088323"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1049081438 1089434386 797768146"
+      "value": "1655972837"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1049081438 1089434386 797768146"
+      "value": "1655972837"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
@@ -54,7 +54,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/Your_id_here"
+      "value": "https://t.me/aestheticboyy2"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
