@@ -5,7 +5,7 @@
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
-Can be found on telegram as [ElisaRobot](https://t.me/elisaRobot).
+Can be found on telegram as [MitsukiProBor](https://t.me/MitsukiProBot).
 
 Keep all support questions in the support chat, where more people can help you. You can also join our support group [here!](https://t.me/viraltwittergrup)
 
