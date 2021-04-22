@@ -22,12 +22,12 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-I'm a group manager bot maintained by @GarimaQueen.
+I'm a group manager bot maintained by Rahasia Pabrik.
 
-Add me to a group by [clicking here](http://t.me/ElisaRobot?startgroup=true).
+Add me to a group by [clicking here](http://t.me/MitsukiProBot?startgroup=true).
 
 🚨 Anti Ripping Organization 🚨
-You can join Fed or Subscribe to remove Rippers from your Groups [here](t.me/AntiRippingOrganization)
+You can join Fed or Subscribe to remove Rippers from your Groups [here](t.me/viraltwittergrup)
 
 """
 
@@ -146,7 +146,7 @@ def send_start(bot, update):
     first_name = update.effective_user.first_name 
     text = PM_START
 
-    keyboard = [[InlineKeyboardButton(text="🇮🇳 Language", callback_data="set_lang_")]]
+    keyboard = [[InlineKeyboardButton(text="🐍 Language", callback_data="set_lang_")]]
     keyboard += [[InlineKeyboardButton(text="🛠 Reporting", callback_data="cntrl_panel_M"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
 
