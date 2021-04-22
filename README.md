@@ -1,7 +1,7 @@
 ![MitsukiProBot](https://telegra.ph/file/61f264cdcc1594bb7079b.jpg)
 # Elisa Robot
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/QueenArzoo/ElisaRobot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Bos-X/ElisaRobot)
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
